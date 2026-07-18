@@ -104,8 +104,8 @@ I design and verify digital hardware — from custom CPUs to UART transceivers �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viraj-Kumar-Manocha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-Kumar-Manocha&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Viraj-Kumar-Manocha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viraj-Kumar-Manocha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">

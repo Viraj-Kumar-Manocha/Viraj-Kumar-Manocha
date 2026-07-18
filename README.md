@@ -117,7 +117,7 @@ I design and verify digital hardware — from custom CPUs to UART transceivers �
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Viraj-Kumar-Manocha&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy-aapysf57v-vkm2006.vercel.app/?username=Viraj-Kumar-Manocha&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 <br/>
